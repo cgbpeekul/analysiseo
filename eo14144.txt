@@ -390,40 +390,13 @@ Government; and
 (ii) adopt requirements for agencies to, by January 4, 2027, require vendors to the 
 Federal Government of consumer Internet-of-Things products, as defined by 47 C.F.R. 
 8.203(b), to carry United States Cyber Trust Mark labeling for those products.
-Sec. 7. National Security Systems and Debilitating Impact Systems.
-(a)  Except as specifically provided for in subsection 4(f) of this order, sections 1 through 7 of this order shall not apply to Federal information systems that are NSS or are otherwise identified by the Department of Defense or the Intelligence Community as debilitating impact systems.
-(b) Within 90 days of the date of this order, to help ensure that NSS and debilitating impact 
-systems are protected with the most advanced security measures, the Secretary of Defense, acting 
-through the Director of NSA as the National Manager for National Security Systems (National 
-Manager), in coordination with the Director of National Intelligence and the Committee on 
-National Security Systems (CNSS), and in consultation with the Director of OMB and the 
-Assistant to the President for National Security Affairs (APNSA), shall develop requirements for 
-NSS and debilitating impact systems that are consistent with the requirements set forth in this 
-order, as appropriate and consistent with applicable law. The Secretary of Defense may grant 
-exceptions to such requirements in circumstances necessitated by unique mission needs. Such 
-requirements shall be incorporated into a proposed National Security Memorandum, to be 
-submitted to the President through the APNSA. 
-(c) To help protect space NSS with cybersecurity measures that keep pace with emerging 
-threats, within 210 days of the date of this order, the CNSS shall review and update, as 
-appropriate, relevant policies and guidance regarding space system cybersecurity. In addition to 
-appropriate updates, the CNSS shall identify and address appropriate requirements to implement 
-cyber defenses on Federal Government-procured space NSS.
-(d) To enhance the effective governance and oversight of Federal information systems, 
-within 90 days of the date of this order, the Director of OMB shall issue guidance as appropriate 
-requiring agencies to inventory all major information systems and provide the inventory to CISA, 
-the Department of Defense, or the National Manager, as applicable, which shall each maintain a 
-registry of agency inventories within their purview. CISA, the Department of Defense CIO, and 
-14
-the National Manager will share their inventories as appropriate to identify gaps or overlaps in 
-oversight coverage. This guidance shall not apply to elements of the Intelligence Community.
-(e) Nothing in this order alters the authorities and responsibilities granted in law or policy to 
-the Director of National Intelligence, the Secretary of Defense, and the National Manager over 
-applicable systems pursuant to the National Security Act of 1947 (Public Law 80–253), the 
-Federal Information Security Modernization Act of 2014 (Public Law 113–283), National 
-Security Directive 42 of July 5, 1990 (National Policy for the Security of National Security 
-Telecommunications and Information Systems), or National Security Memorandum 8 of January 
-19, 2022 (Improving the Cybersecurity of National Security, Department of Defense, and 
-Intelligence Community Systems).
+Sec. 7.  Aligning Policy to Practice.  Agencies’ policies must align investments and priorities to improve network visibility and security controls to reduce cyber risks.  In consultation with the National Cyber Director, agencies shall take the following actions:
+
+(a)  Within 3 years of the date of this order, the Director of OMB shall issue guidance, including any necessary revision to OMB Circular A–130, to address critical risks and adapt modern practices and architectures across Federal information systems and networks.
+
+(b)  Within 1 year of the date of this order, the Secretary of Commerce, acting through the Director of NIST; the Secretary of Homeland Security, acting through the Director of CISA; and the Director of OMB shall establish a pilot program of a rules-as- code approach for machine-readable versions of policy and guidance that OMB, NIST, and CISA publish and manage regarding cybersecurity.
+
+(c)  Within 1 year of the date of this order, agency members of the FAR Council shall, as appropriate and consistent with applicable law, jointly take steps to amend the FAR to adopt requirements for agencies to, by January 4, 2027, require vendors to the Federal Government of consumer Internet-of-Things products, as defined by 47 CFR 8.203(b), to carry United States Cyber Trust Mark labeling for those products.
 Sec. 8. Additional Steps to Combat Significant Malicious Cyber-Enabled Activities. Because 
 I find that additional steps must be taken to deal with the national emergency with respect to 
 significant malicious cyber-enabled activities declared in Executive Order 13694 of April 1, 2015 
