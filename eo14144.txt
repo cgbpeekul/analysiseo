@@ -20,42 +20,71 @@ promoting innovative developments and the use of emerging technologies for cyber
 across executive departments and agencies (agencies) and with the private sector are especially 
 critical to improvement of the Nation's cybersecurity.
 Sec. 2. Operationalizing Transparency and Security in Third-Party Software Supply Chains. 
+(a) The Federal Government and our Nation's critical infrastructure rely on software providers. 
+Yet insecure software remains a challenge for both providers and users and makes Federal 
+Government and critical infrastructure systems vulnerable to malicious cyber incidents. The 
+Federal Government must continue to adopt secure software acquisition practices and take steps 
+so that software providers use secure software development practices to reduce the number and 
+severity of vulnerabilities in software they produce.
+(b) Executive Order 14028 directed actions to improve the security and integrity of software 
+critical to the Federal Government's ability to function. Executive Order 14028 directed the 
+development of guidance on secure software development practices and on generating and 
+providing evidence in the form of artifacts—computer records or data that are generated manually 
+or by automated means—that demonstrate compliance with those practices. Additionally, it 
+directed the Director of the Office of Management and Budget (OMB) to require agencies to use 
+only software from providers that attest to using those secure software development practices. In 
+some instances, providers of software to the Federal Government commit to following 
+cybersecurity practices, yet do not fix well-known exploitable vulnerabilities in their software, 
+which puts the Government at risk of compromise. The Federal Government needs to adopt more 
+rigorous third-party risk management practices and greater assurance that software providers that 
+support critical Government services are following the practices to which they attest.
+(i) Within 30 days of the date of this order, the Director of OMB, in consultation with 
+the Secretary of Commerce, acting through the Director of the National Institute of 
+2
+Standards and Technology (NIST), and the Secretary of Homeland Security, acting 
+through the Director of the Cybersecurity and Infrastructure Security Agency (CISA), 
+shall recommend to the Federal Acquisition Regulatory Council (FAR Council) 
+contract language requiring software providers to submit to CISA through CISA's 
+Repository for Software Attestation and Artifacts (RSAA):
+(A) machine-readable secure software development attestations;
+(B) high-level artifacts to validate those attestations; and
+(C) a list of the providers' Federal Civilian Executive Branch (FCEB) agency 
+software customers.
+(ii) Within 120 days of the receipt of the recommendations described in subsection 
+(b)(i) of this section, the FAR Council shall review the recommendations and, as 
+appropriate and consistent with applicable law, the Secretary of Defense, the 
+Administrator of General Services, and the Administrator of the National Aeronautics 
+and Space Administration (the agency members of the FAR Council) shall jointly take 
+steps to amend the Federal Acquisition Regulation (FAR) to implement those 
+recommendations. The agency members of the FAR Council are strongly encouraged to 
+consider issuing an interim final rule, as appropriate and consistent with applicable law.
+(iii) Within 60 days of the date of the issuance of the recommendations described in 
+subsection (b)(i) of this section, the Secretary of Homeland Security, acting through the 
+Director of CISA, shall evaluate emerging methods of generating, receiving, and 
+verifying machine-readable secure software development attestations and artifacts and, 
+as appropriate, shall provide guidance for software providers on submitting them to 
+CISA's RSAA website, including a common data schema and format.
+(iv) Within 30 days of the date of any amendments to the FAR described in subsection 
+(b)(ii) of this section, the Secretary of Homeland Security, acting through the Director 
+of CISA, shall develop a program to centrally verify the completeness of all attestation 
+forms. CISA shall continuously validate a sample of the complete attestations using 
+high-level artifacts in the RSAA.
+(v) If CISA finds that attestations are incomplete or artifacts are insufficient for 
+validating the attestations, the Director of CISA shall notify the software provider and 
+the contracting agency. The Director of CISA shall provide a process for the software Add commentMore actions
+provider to respond to CISA's initial determination and shall duly consider the response.
+(vi) For attestations that undergo validation, the Director of CISA shall inform the 
+National Cyber Director, who shall publicly post the results, identifying the software 
+providers and software version. The National Cyber Director is encouraged to refer 
+attestations that fail validation to the Attorney General for action as appropriate.
+(c)  Relevant executive departments and agencies (agencies) shall take the following actions:
 
-(a) Secure software development practices are not sufficient to address the potential for 
-cyber incidents from resourced and determined nation-state actors. To mitigate the risk of such 
-incidents occurring, software providers must also address how software is delivered and the 
-security of the software itself. The Federal Government must identify a coordinated set of 
-practical and effective security practices to require when it procures software.
-(i) Within 60 days of the date of this order, the Secretary of Commerce, acting through 
-the Director of NIST, shall establish a consortium with industry at the National 
-Cybersecurity Center of Excellence to develop guidance, informed by the consortium as 
-appropriate, that demonstrates the implementation of secure software development, 
-3
-security, and operations practices based on NIST Special Publication 800–218 (Secure 
-Software Development Framework (SSDF)).
-(ii) Within 90 days of the date of this order, the Secretary of Commerce, acting through 
-the Director of NIST, shall update NIST Special Publication 800–53 (Security and 
-Privacy Controls for Information Systems and Organizations) to provide guidance on 
-how to securely and reliably deploy patches and updates.
-(iii) Within 180 days of the date of this order, the Secretary of Commerce, acting 
-through the Director of NIST, in consultation with the heads of such agencies as the 
-Director of NIST deems appropriate, shall develop and publish a preliminary update to 
-the SSDF. This update shall include practices, procedures, controls, and implementation 
-examples regarding the secure and reliable development and delivery of software as 
-well as the security of the software itself. Within 120 days of publishing the preliminary 
-update, the Secretary of Commerce, acting through the Director of NIST, shall publish a 
-final version of the updated SSDF.
-(iv) Within 120 days of the final update to the SSDF described in subsection (c)(iii) of 
-this section, the Director of OMB shall incorporate select practices for the secure 
-development and delivery of software contained in NIST's updated SSDF into the 
-requirements of OMB Memorandum M–22–18 (Enhancing the Security of the Software 
-Supply Chain through Secure Software Development Practices) or related requirements.
-(v) Within 30 days of the issuance of OMB's updated requirements described in 
-subsection (c)(iv) of this section, the Director of CISA shall prepare any revisions to 
-CISA's common form for Secure Software Development Attestation to conform to 
-OMB's requirements and shall initiate any process required to obtain clearance of the 
-revised form under the Paperwork Reduction Act, 44 U.S.C. 3501 et seq.
-(b) As agencies have improved their cyber defenses, adversaries have targeted the weak 
+(i)    By August 1, 2025, the Secretary of Commerce, acting through the Director of NIST, shall establish a consortium with industry at the National Cybersecurity Center of Excellence to develop guidance, informed by the consortium as appropriate, that demonstrates the implementation of secure software development, security, and operations practices based on NIST Special Publication 800–218 (Secure Software Development Framework (SSDF)).
+
+(ii)   By September 2, 2025, the Secretary of Commerce, acting through the Director of NIST, shall update NIST Special Publication 800–53 (Security and Privacy Controls for Information Systems and Organizations) to provide guidance on how to securely and reliably deploy patches and updates.
+
+(iii)  By December 1, 2025, the Secretary of Commerce, acting through the Director of NIST, in consultation with the heads of such agencies as the Director of NIST deems appropriate, shall develop and publish a preliminary update to the SSDF.  This preliminary update shall include practices, procedures, controls, and implementation examples regarding the secure and reliable development and delivery of software as well as the security of the software itself.  Within 120 days of publishing the preliminary update, the Secretary of Commerce, acting through the Director of NIST, shall publish a final version of the updated SSDF.
+(d) As agencies have improved their cyber defenses, adversaries have targeted the weak 
 links in agency supply chains and the products and services upon which the Federal Government 
 relies. Agencies need to integrate cybersecurity supply chain risk management programs into 
 enterprise-wide risk management activities. Within 90 days of the date of this order, the Director 
@@ -68,13 +97,16 @@ to provide annual updates to OMB as they complete implementation. Consistent wit
 Revision 1, OMB's requirements shall address the integration of cybersecurity into the acquisition 
 lifecycle through acquisition planning, source selection, responsibility determination, security 
 compliance evaluation, contract administration, and performance evaluation.
-(c)  Relevant executive departments and agencies (agencies) shall take the following actions:
+(e) Open source software plays a critical role in Federal information systems. To help the 
+Federal Government continue to reap the innovation and cost benefits of open source software 
+and contribute to the cybersecurity of the open source software ecosystem, agencies must better 
+manage their use of open source software. Within 120 days of the date of this order, the Secretary 
+of Homeland Security, acting through the Director of CISA, and the Director of OMB, in 
+consultation with the Administrator of General Services and the heads of other agencies as 
+appropriate, shall jointly issue recommendations to agencies on the use of security assessments 
+and patching of open source software and best practices for contributing to open source software 
+projects.
 
-(i)    By August 1, 2025, the Secretary of Commerce, acting through the Director of NIST, shall establish a consortium with industry at the National Cybersecurity Center of Excellence to develop guidance, informed by the consortium as appropriate, that demonstrates the implementation of secure software development, security, and operations practices based on NIST Special Publication 800–218 (Secure Software Development Framework (SSDF)).
-
-(ii)   By September 2, 2025, the Secretary of Commerce, acting through the Director of NIST, shall update NIST Special Publication 800–53 (Security and Privacy Controls for Information Systems and Organizations) to provide guidance on how to securely and reliably deploy patches and updates.
-
-(iii)  By December 1, 2025, the Secretary of Commerce, acting through the Director of NIST, in consultation with the heads of such agencies as the Director of NIST deems appropriate, shall develop and publish a preliminary update to the SSDF.  This preliminary update shall include practices, procedures, controls, and implementation examples regarding the secure and reliable development and delivery of software as well as the security of the software itself.  Within 120 days of publishing the preliminary update, the Secretary of Commerce, acting through the Director of NIST, shall publish a final version of the updated SSDF.
 Sec. 3. Improving the Cybersecurity of Federal Systems. 
 (a) The Federal Government must maintain the ability to rapidly and effectively identify 
 threats across the Federal enterprise. To enable identification of threat activity, CISA's capability to hunt for and identify 
